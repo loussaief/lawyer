@@ -758,6 +758,9 @@ position: relative;
     .footer-bottom>p >a{
         color: #a0a0a0;
     }
+    .footer-bottom>p{
+        font-size: 9px;
+    }
  @media screen and (max-width: 1000px) {
 footer{
 height: min-content;
